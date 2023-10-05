@@ -1,5 +1,5 @@
 # **Hi there** 👋
-
+> Sic parvis magna
 <p>Bonjour Je m’appelle Dorian Loeb je suis nouveau dans le monde du développement, voici un exemple de projet qui est un article Wikipédia :</p>
 
 [Mon article Wikipédia] (*clique sur l'image*)
@@ -13,16 +13,15 @@
 ## _Mes compétences_ :
 Pour l'instant pas grand chose voici la liste coché en dessous :
 
-- [x] HTML 5
+- [x] Unreal Engine
 - [x] C++ (et encore je connais que les bases)
 - [ ] Java Script
+- [ ] HTML 5
 
-| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |	
+
 
 * Exemple 1
 * exemple 2
 
-### H3
-#### H4
-##### H5
-###### H6
+## on est la :
+comment ca va
