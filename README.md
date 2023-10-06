@@ -8,7 +8,7 @@
 [![Mon article Wikipédia](https://cdn-icons-png.flaticon.com/256/5968/5968992.png)](https://fr.wikipedia.org/wiki/Utilisateur:Valanor1304/Brouillon)
 
 
-`cout<<"Je  test des fonctionnaliteés";`
+`cout<<"Je  teste des fonctionnaliteés";`
 
 ## _Nom des  Planetes du systeme solaire 
 
